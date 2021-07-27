@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+.header{
+    background-color: darkolivegreen;
+    height: 100px;
+    text-align: center;
+}
+.header_bar{
+    background-color: midnightblue;
+    height: 100px;
+    text-align: center;
+
+
+}
+.content{
+    overflow: hidden;
+
+}
+.left_content{
+    width: 20%;
+    height: 500px;
+    background-color: darkslategrey;
+    float: left;
+    text-align: center;
+
+
+}
+.right_content{
+    width: 80%;
+    height: 500px;
+    background-color: firebrick;
+    float: left;
+    text-align: center;
+}
+
+.fotter_secstion{
+    background-color: saddlebrown;
+    height: 60px;
+    text-align: center;
+}
+
+
